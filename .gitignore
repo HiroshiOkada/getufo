@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# eslint and prettier configuration (personal)
+.eslintrc.json
+.prettierrc.js
+
+# temporary files
+tmp/

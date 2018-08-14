@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+const { URL } = require('url')
 const path = require('path')
 const prog = require('commander')
 const puppeteer = require('puppeteer')
@@ -12,7 +13,7 @@ const {
 } = require('./getufo_utils.js')
 
 prog
-  .version('0.0.1', '-v, --version')
+  .version('0.0.2', '-v, --version')
   .description('Download financial statements from EDINET.')
   .option(
     '-f, --folder [folder]',

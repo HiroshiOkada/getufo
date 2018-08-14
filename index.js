@@ -69,13 +69,15 @@ const downloadByCode = async (page, code) => {
   const EDINET_TOP_URL = 'http://disclosure.edinet-fsa.go.jp/'
   await page.goto(EDINET_TOP_URL)
   const KENSAKU = 'li.kensaku > a'
-  await page.click(KENSAKU)
+  await page.waitFor(KENSAKU)
+  await page.$eval(KENSAKU, e => e.click())
 
   // Set serach period max
   const OPEN_PERIOD =
     '#control_object_class1 > div > div:nth-child(6) > div.panel-item.panel.panel-up > div > p.txt'
   await page.waitFor(OPEN_PERIOD)
-  await page.click(OPEN_PERIOD)
+  await page.$eval(OPEN_PERIOD, e => e.click())
+
   const PERIOD_SELCT = 'select[name="pfs"]'
   await page.$eval(PERIOD_SELCT, e => {
     e.value = '5'
@@ -93,7 +95,8 @@ const downloadByCode = async (page, code) => {
 
   // search
   const SEARCH_BTN = '#sch'
-  await page.click(SEARCH_BTN)
+  await page.waitFor(SEARCH_BTN)
+  await page.$eval(SEARCH_BTN, e => e.click())
 
   // download xbrl
   await setUpForDownload(page, downloadPath)
@@ -104,7 +107,7 @@ const downloadByCode = async (page, code) => {
   }
   page.on('dialog', dialogAccept)
   console.log('Download XBRL (zip)')
-  await page.click(XBRL_BUTTON)
+  await page.$eval(XBRL_BUTTON, e => e.click())
   await waitDownloadFinish(downloadPath)
   page.removeListener('dialog', dialogAccept)
 

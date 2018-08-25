@@ -11,10 +11,11 @@ const {
   waitDownloadFinish,
   downLoadFromUrl
 } = require('./getufo_utils.js')
+const { version, description } = require('./package.json')
 
 prog
-  .version('0.0.5', '-v, --version')
-  .description('Download financial statements from EDINET.')
+  .version(version, '-v, --version')
+  .description(description)
   .option(
     '-f, --folder [folder]',
     'Set download folder (default: current working directory)'

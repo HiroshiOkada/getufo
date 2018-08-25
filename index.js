@@ -13,7 +13,7 @@ const {
 } = require('./getufo_utils.js')
 
 prog
-  .version('0.0.4', '-v, --version')
+  .version('0.0.5', '-v, --version')
   .description('Download financial statements from EDINET.')
   .option(
     '-f, --folder [folder]',

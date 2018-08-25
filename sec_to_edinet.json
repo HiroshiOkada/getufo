@@ -10527,6 +10527,13 @@
     "ruby": "カブシキガイシャアクリート",
     "englishName": ""
   },
+  "43970": {
+    "edinetCode": "E34225",
+    "secCode": "43970",
+    "name": "株式会社チームスピリット",
+    "ruby": "カブシキガイシャチームスピリット",
+    "englishName": "TeamSpirit Inc."
+  },
   "44010": {
     "edinetCode": "E00878",
     "secCode": "44010",
@@ -15293,6 +15300,13 @@
     "name": "株式会社島精機製作所",
     "ruby": "カブシキガイシャシマセイキセイサクショ",
     "englishName": "SHIMA SEIKI MFG., LTD."
+  },
+  "62330": {
+    "edinetCode": "E34273",
+    "secCode": "62330",
+    "name": "極東産機株式会社",
+    "ruby": "キョクトウサンキカブシキガイシャ",
+    "englishName": "KYOKUTO SANKI CO.,LTD."
   },
   "62350": {
     "edinetCode": "E33594",

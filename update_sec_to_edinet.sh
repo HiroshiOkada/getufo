@@ -7,7 +7,7 @@ curl --remote-name https://gist.githubusercontent.com/HiroshiOkada/5a2ac826530cc
 change=$(git status --porcelain)
 if [ -n "$change" ]; then
   echo "$change"
-  # git add package-lock.json
-  # git commit -m '[skip ci] Update package.json'
+  git add sec_to_edinet.json
+  git commit -m '[skip ci] Update sec to edinet infomation'
   flg=true
 fi

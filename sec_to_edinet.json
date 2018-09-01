@@ -1647,7 +1647,7 @@
   "18480": {
     "edinetCode": "E00238",
     "secCode": "18480",
-    "name": "株式会社 富士ピー・エス",
+    "name": "株式会社富士ピー・エス",
     "ruby": "カブシキガイシャ フジピーエス",
     "englishName": "FUJI P.S CORPORATION"
   },
@@ -7495,6 +7495,13 @@
     "name": "株式会社マツオカコーポレーション",
     "ruby": "カブシキガイシャマツオカコーポレーション",
     "englishName": "MATSUOKA CORPORATION"
+  },
+  "36120": {
+    "edinetCode": "E02767",
+    "secCode": "36120",
+    "name": "株式会社ワールド",
+    "ruby": "カブシキガイシャワールド",
+    "englishName": "WORLD CO.,LTD."
   },
   "36220": {
     "edinetCode": "E05736",
@@ -18967,6 +18974,13 @@
     "secCode": "70340",
     "name": "株式会社プロレド・パートナーズ",
     "ruby": "カブシキガイシャプロレドパートナーズ",
+    "englishName": ""
+  },
+  "70350": {
+    "edinetCode": "E34238",
+    "secCode": "70350",
+    "name": "and factory株式会社",
+    "ruby": "アンドファクトリーカブシキカイシャ",
     "englishName": ""
   },
   "71020": {

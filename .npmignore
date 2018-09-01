@@ -66,3 +66,7 @@ typings/
 
 # temporary files
 tmp/
+
+# Utility scripts
+_*.sh
+

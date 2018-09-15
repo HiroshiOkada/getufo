@@ -3194,9 +3194,9 @@
   "23380": {
     "edinetCode": "E05315",
     "secCode": "23380",
-    "name": "株式会社ファステップス",
-    "ruby": "カブシキガイシャファステップス",
-    "englishName": "Fasteps Co.,Ltd."
+    "name": "株式会社ビットワングループ",
+    "ruby": "カブシキガイシャビットワングループ",
+    "englishName": "Bit One Group Co.,Ltd."
   },
   "23400": {
     "edinetCode": "E04727",
@@ -7109,6 +7109,27 @@
     "secCode": "34910",
     "name": "株式会社GA technologies",
     "ruby": "カブシキカイシャジーエーテクノロジーズ",
+    "englishName": ""
+  },
+  "34940": {
+    "edinetCode": "E34271",
+    "secCode": "34940",
+    "name": "株式会社マリオン",
+    "ruby": "カブシキガイシャマリオン",
+    "englishName": "Mullion Co.,Ltd."
+  },
+  "34950": {
+    "edinetCode": "E34256",
+    "secCode": "34950",
+    "name": "香陵住販株式会社",
+    "ruby": "コウリョウジュウハンカブシキガイシャ",
+    "englishName": "Koryojyuhan Co., Ltd."
+  },
+  "34960": {
+    "edinetCode": "E34285",
+    "secCode": "34960",
+    "name": "株式会社アズーム",
+    "ruby": "カブシキカイシャアズーム",
     "englishName": ""
   },
   "35010": {
@@ -26038,6 +26059,13 @@
     "name": "国際紙パルプ商事株式会社",
     "ruby": "コクサイカミパルプショウジカブシキガイシャ",
     "englishName": "KOKUSAI PULP&PAPER CO., LTD."
+  },
+  "92750": {
+    "edinetCode": "E34249",
+    "secCode": "92750",
+    "name": "株式会社ナルミヤ・インターナショナル",
+    "ruby": "カブシキガイシャナルミヤインターナショナル",
+    "englishName": ""
   },
   "93010": {
     "edinetCode": "E04283",

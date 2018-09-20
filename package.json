@@ -1,6 +1,6 @@
 {
   "name": "@toycode/getufo",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Download securities reports from EDINET",
   "scripts": {
     "test": "jest",

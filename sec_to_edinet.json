@@ -7132,6 +7132,13 @@
     "ruby": "カブシキカイシャアズーム",
     "englishName": ""
   },
+  "34970": {
+    "edinetCode": "E34322",
+    "secCode": "34970",
+    "name": "株式会社リーガル不動産",
+    "ruby": "カブシキガイシャリーガルフドウサン",
+    "englishName": "LEGAL CORPORATION"
+  },
   "35010": {
     "edinetCode": "E00574",
     "secCode": "35010",
@@ -19004,6 +19011,13 @@
     "ruby": "アンドファクトリーカブシキカイシャ",
     "englishName": ""
   },
+  "70380": {
+    "edinetCode": "E34290",
+    "secCode": "70380",
+    "name": "フロンティア・マネジメント株式会社",
+    "ruby": "フロンティアマネジメントカブシキガイシャ",
+    "englishName": "Frontier Management Inc."
+  },
   "71020": {
     "edinetCode": "E02134",
     "secCode": "71020",
@@ -26574,9 +26588,9 @@
   "94440": {
     "edinetCode": "E05137",
     "secCode": "94440",
-    "name": "株式会社トーシン",
-    "ruby": "カブシキガイシャ トーシン",
-    "englishName": "TOSHIN CORPORATION"
+    "name": "株式会社トーシンホールディングス",
+    "ruby": "カブシキガイシャ トーシンホールディングス",
+    "englishName": "TOSHIN HOLDINGS CO.,LTD"
   },
   "94450": {
     "edinetCode": "E04476",

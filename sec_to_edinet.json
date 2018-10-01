@@ -10562,6 +10562,13 @@
     "ruby": "カブシキガイシャアクリート",
     "englishName": ""
   },
+  "43960": {
+    "edinetCode": "E34111",
+    "secCode": "43960",
+    "name": "株式会社システムサポート",
+    "ruby": "カブシキカイシャシステムサポート",
+    "englishName": "System Support Inc."
+  },
   "43970": {
     "edinetCode": "E34225",
     "secCode": "43970",
@@ -18342,9 +18349,9 @@
   "68790": {
     "edinetCode": "E01862",
     "secCode": "68790",
-    "name": "株式会社イマジカ・ロボット ホールディングス",
-    "ruby": "カブシキガイシャイマジカロボットホールディングス",
-    "englishName": "Imagica Robot Holdings Inc."
+    "name": "株式会社IMAGICA GROUP",
+    "ruby": "カブシキガイシャイマジカグループ",
+    "englishName": "IMAGICA GROUP Inc."
   },
   "68810": {
     "edinetCode": "E02035",
@@ -20876,9 +20883,9 @@
   "76380": {
     "edinetCode": "E03333",
     "secCode": "76380",
-    "name": "株式会社NEW ART",
-    "ruby": "カブシキガイシャニューアート",
-    "englishName": "NEW ART Co., Ltd"
+    "name": "株式会社NEW ART HOLDINGS",
+    "ruby": "カブシキガイシャニューアートホールディングス",
+    "englishName": "NEW ART HOLDINGS Co., Ltd"
   },
   "76400": {
     "edinetCode": "E03336",
@@ -21478,9 +21485,9 @@
   "78340": {
     "edinetCode": "E02476",
     "secCode": "78340",
-    "name": "マルマン株式会社",
-    "ruby": "マルマンカブシキガイシャ",
-    "englishName": "Maruman & Co., Ltd."
+    "name": "マジェスティ ゴルフ株式会社",
+    "ruby": "マジェスティ ゴルフカブシキガイシャ",
+    "englishName": "MAJESTY GOLF Co., Ltd."
   },
   "78350": {
     "edinetCode": "E05491",
@@ -22332,9 +22339,9 @@
   "79950": {
     "edinetCode": "E01164",
     "secCode": "79950",
-    "name": "日本バルカー工業株式会社",
+    "name": "株式会社バルカー",
     "ruby": "ニッポンバルカーコウギョウカブシキガイシャ",
-    "englishName": "NIPPON VALQUA INDUSTRIES, LTD."
+    "englishName": "VALQUA , LTD."
   },
   "79970": {
     "edinetCode": "E02372",

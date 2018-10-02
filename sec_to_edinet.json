@@ -475,6 +475,13 @@
     "ruby": "カブシキガイシャキャンディル",
     "englishName": "CANDEAL CO., Ltd"
   },
+  "14470": {
+    "edinetCode": "E34165",
+    "secCode": "14470",
+    "name": "ITbookホールディングス株式会社",
+    "ruby": "アイティーブックホールディングスカブシキガイシャ",
+    "englishName": "ITbook Holdings Co.,LTD"
+  },
   "14730": {
     "edinetCode": "E10677",
     "secCode": "14730",
@@ -583,9 +590,9 @@
   "15180": {
     "edinetCode": "E00037",
     "secCode": "15180",
-    "name": "三井松島産業株式会社",
-    "ruby": "ミツイマツシマサンギョウカブシキガイシャ",
-    "englishName": "MITSUI MATSUSHIMA Co.,LTD"
+    "name": "三井松島ホールディングス株式会社",
+    "ruby": "ミツイマツシマホールディングスカブシキガイシャ",
+    "englishName": "MITSUI MATSUSHIMA HOLDINGS CO.,LTD."
   },
   "15400": {
     "edinetCode": "E03626",
@@ -7436,9 +7443,9 @@
   "35800": {
     "edinetCode": "E00591",
     "secCode": "35800",
-    "name": "小松精練株式会社",
-    "ruby": "コマツセイレンカブシキガイシャ",
-    "englishName": "KOMATSU SEIREN CO.,LTD"
+    "name": "小松マテーレ株式会社",
+    "ruby": "コマツマテーレカブシキガイシャ",
+    "englishName": "KOMATSU MATERE Co., Ltd."
   },
   "35830": {
     "edinetCode": "E00584",
@@ -8661,9 +8668,9 @@
   "38530": {
     "edinetCode": "E05699",
     "secCode": "38530",
-    "name": "インフォテリア株式会社",
-    "ruby": "インフォテリアカブシキガイシャ",
-    "englishName": "Infoteria Corporation"
+    "name": "アステリア株式会社",
+    "ruby": "アステリアカブシキガイシャ",
+    "englishName": "ASTERIA Corporation"
   },
   "38540": {
     "edinetCode": "E05705",
@@ -21702,9 +21709,9 @@
   "78720": {
     "edinetCode": "E03281",
     "secCode": "78720",
-    "name": "As-meエステール株式会社",
-    "ruby": "アズミエステールカブシキガイシャ",
-    "englishName": "As-me ESTELLE CO.,LTD."
+    "name": "エステールホールディングス株式会社",
+    "ruby": "エステールホールディングスカブシキガイシャ",
+    "englishName": "ESTELLE HOLDINGS CO.,LTD."
   },
   "78730": {
     "edinetCode": "E02446",
@@ -26107,6 +26114,13 @@
     "secCode": "92750",
     "name": "株式会社ナルミヤ・インターナショナル",
     "ruby": "カブシキガイシャナルミヤインターナショナル",
+    "englishName": ""
+  },
+  "92780": {
+    "edinetCode": "E34102",
+    "secCode": "92780",
+    "name": "ブックオフグループホールディングス株式会社",
+    "ruby": "ブックオフグループホールディングスカブシキガイシャ",
     "englishName": ""
   },
   "93010": {

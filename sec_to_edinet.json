@@ -10590,6 +10590,13 @@
     "ruby": "カブシキガイシャブロードバンドセキュリティ",
     "englishName": "BroadBand Security, Inc."
   },
+  "43990": {
+    "edinetCode": "E34199",
+    "secCode": "43990",
+    "name": "株式会社くふうカンパニー",
+    "ruby": "カブシキガイシャクフウカンパニー",
+    "englishName": "Kufu Company Inc."
+  },
   "44010": {
     "edinetCode": "E00878",
     "secCode": "44010",
@@ -13011,6 +13018,13 @@
     "name": "ゼニス羽田ホールディングス株式会社",
     "ruby": "ゼニスハネダホールディングスカブシキカイシャ",
     "englishName": "HANEDA ZENITH HOLDINGS Co.,Ltd."
+  },
+  "52900": {
+    "edinetCode": "E34137",
+    "secCode": "52900",
+    "name": "株式会社ベルテクスコーポレーション",
+    "ruby": "カブシキカイシャベルテクスコーポレーション",
+    "englishName": ""
   },
   "53010": {
     "edinetCode": "E01162",
@@ -19038,6 +19052,13 @@
     "name": "フロンティア・マネジメント株式会社",
     "ruby": "フロンティアマネジメントカブシキガイシャ",
     "englishName": "Frontier Management Inc."
+  },
+  "70390": {
+    "edinetCode": "E34331",
+    "secCode": "70390",
+    "name": "ブリッジインターナショナル株式会社",
+    "ruby": "ブリッジインターナショナルカブシキカイシャ",
+    "englishName": ""
   },
   "71020": {
     "edinetCode": "E02134",

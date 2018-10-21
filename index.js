@@ -24,6 +24,10 @@ prog
     '-n, --numpdf [num]',
     'How many pdf files to download (default: 4)'
   )
+  .option(
+    '--no-sandbox',
+    'Run internal chrome without the sandbox, It may require when running inside docker container'
+  )
   .arguments('<codes>')
   .parse(process.argv)
 
@@ -47,6 +51,10 @@ const numPdf = prog.numpdf || 4
 const puppeteerOptions = {
   headless: true,
   ignoreHTTPSErrors: true
+}
+
+if (!prog.sandbox) {
+  puppeteerOptions.args = ['--no-sandbox', '--disable-setuid-sandbox']
 }
 
 const showList = list => {

@@ -15,6 +15,9 @@
     "report"
   ],
   "author": "Hiroshi Okada",
+  "repository": "HiroshiOkada/getufo",
+  "homepage": "https://github.com/HiroshiOkada/getufo/blob/master/README.md",
+  "bugs": "https://github.com/HiroshiOkada/getufo/issues",
   "license": "MIT",
   "bin": {
     "getufo": "index.js"

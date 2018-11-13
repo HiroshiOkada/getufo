@@ -26746,6 +26746,13 @@
     "ruby": "ジーエムオーインターネットカブシキカイシャ",
     "englishName": "GMO internet, Inc."
   },
+  "94500": {
+    "edinetCode": "E33839",
+    "secCode": "94500",
+    "name": "株式会社ファイバーゲート",
+    "ruby": "カブシキカイシャファイバーゲート",
+    "englishName": ""
+  },
   "94660": {
     "edinetCode": "E32198",
     "secCode": "94660",
@@ -28492,9 +28499,9 @@
   "99800": {
     "edinetCode": "E00609",
     "secCode": "99800",
-    "name": "マルコ株式会社",
-    "ruby": "マルコカブシキガイシャ",
-    "englishName": "MARUKO CO.,LTD."
+    "name": "MRKホールディングス株式会社",
+    "ruby": "エムアールケイホールディングスカブシキガイシャ",
+    "englishName": "MRK HOLDINGS INC."
   },
   "99820": {
     "edinetCode": "E02776",

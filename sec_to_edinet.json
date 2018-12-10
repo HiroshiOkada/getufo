@@ -10072,6 +10072,13 @@
     "ruby": "カブシキガイシャニックス",
     "englishName": "NIX,INC."
   },
+  "42450": {
+    "edinetCode": "E30133",
+    "secCode": "42450",
+    "name": "株式会社ダイキアクシス",
+    "ruby": "カブシキガイシャダイキアクシス",
+    "englishName": "Daiki Axis Co.,Ltd"
+  },
   "42460": {
     "edinetCode": "E30438",
     "secCode": "42460",
@@ -11247,6 +11254,13 @@
     "name": "ソレイジア・ファーマ株式会社",
     "ruby": "ソレイジア ファーマカブシキカイシャ",
     "englishName": ""
+  },
+  "45980": {
+    "edinetCode": "E34318",
+    "secCode": "45980",
+    "name": "DeltaーFly Pharma株式会社",
+    "ruby": "デルタフライファーマカブシキカイシャ",
+    "englishName": "Delta-Fly Pharma, Inc."
   },
   "46110": {
     "edinetCode": "E00891",
@@ -19948,6 +19962,13 @@
     "name": "SBIインシュアランスグループ株式会社",
     "ruby": "エスビーアイインシュアランスグループカブシキガイシャ",
     "englishName": "SBI Insurance Group Co., Ltd."
+  },
+  "73300": {
+    "edinetCode": "E21671",
+    "secCode": "73300",
+    "name": "レオス・キャピタルワークス株式会社",
+    "ruby": "レオスキャピタルワークスカブシキガイシャ",
+    "englishName": ""
   },
   "73990": {
     "edinetCode": "E02447",

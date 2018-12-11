@@ -7755,6 +7755,13 @@
     "ruby": "カブシキガイシャコメダホールディングス",
     "englishName": "KOMEDA Holdings Co., Ltd"
   },
+  "35440": {
+    "edinetCode": "E32381",
+    "secCode": "35440",
+    "name": "サツドラホールディングス株式会社",
+    "ruby": "サツドラホールディングスカブシキガイシャ",
+    "englishName": ""
+  },
   "35450": {
     "edinetCode": "E32577",
     "secCode": "35450",
@@ -19619,6 +19626,27 @@
     "name": "株式会社アクセスグループ・ホールディングス",
     "ruby": "カブシキガイシャアクセスグループホールディングス",
     "englishName": "ACCESS GROUP HOLDINGS CO., LTD."
+  },
+  "70430": {
+    "edinetCode": "E34498",
+    "secCode": "70430",
+    "name": "アルー株式会社",
+    "ruby": "アルーカブシキガイシャ",
+    "englishName": "Alue Co., Ltd."
+  },
+  "70440": {
+    "edinetCode": "E34484",
+    "secCode": "70440",
+    "name": "株式会社ピアラ",
+    "ruby": "カブシキカイシャピアラ",
+    "englishName": "PIALA INC."
+  },
+  "70460": {
+    "edinetCode": "E34487",
+    "secCode": "70460",
+    "name": "テクノスデータサイエンス・エンジニアリング株式会社",
+    "ruby": "テクノスデータサイエンスエンジニアリングカブシキガイシャ",
+    "englishName": "TECNOS DATASCIENCE ENGINEERING INCORPORATED"
   },
   "71020": {
     "edinetCode": "E02134",

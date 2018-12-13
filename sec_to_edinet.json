@@ -503,6 +503,13 @@
     "ruby": "アイティーブックホールディングスカブシキガイシャ",
     "englishName": "ITbook Holdings Co.,LTD"
   },
+  "14480": {
+    "edinetCode": "E34109",
+    "secCode": "14480",
+    "name": "株式会社スペースバリューホールディングス",
+    "ruby": "カブシキガイシャスペースバリューホールディングス",
+    "englishName": "SPACE VALUE HOLDINGS CO., LTD."
+  },
   "14580": {
     "edinetCode": "E15787",
     "secCode": "14580",
@@ -6460,6 +6467,13 @@
     "ruby": "ミエコウツウグループホールディングスカブシキガイシャ",
     "englishName": "Mie Kotsu Group Holdings,Inc."
   },
+  "32340": {
+    "edinetCode": "E14490",
+    "secCode": "32340",
+    "fundCode": "G05147",
+    "name": "森ヒルズリート投資法人",
+    "ruby": "モリヒルズリートトウシホウジン"
+  },
   "32350": {
     "edinetCode": "E04066",
     "secCode": "32350",
@@ -6705,12 +6719,26 @@
     "ruby": "トウキュウフドウサンホールディングスカブシキカイシャ",
     "englishName": "Tokyu Fudosan Holdings Corporation"
   },
+  "32900": {
+    "edinetCode": "E27884",
+    "secCode": "32900",
+    "fundCode": "G09504",
+    "name": "Oneリート投資法人",
+    "ruby": "ワンリートトウシホウジン"
+  },
   "32910": {
     "edinetCode": "E27759",
     "secCode": "32910",
     "name": "飯田グループホールディングス株式会社",
     "ruby": "イイダグループホールディングスカブシキガイシャ",
     "englishName": "Iida Group Holdings Co., Ltd."
+  },
+  "32920": {
+    "edinetCode": "E30064",
+    "secCode": "32920",
+    "fundCode": "G10055",
+    "name": "イオンリート投資法人",
+    "ruby": "イオンリートトウシホウジン"
   },
   "32930": {
     "edinetCode": "E30066",
@@ -7384,6 +7412,13 @@
     "ruby": "シンワカブシキガイシャ",
     "englishName": "Shinwa Co., Ltd."
   },
+  "34510": {
+    "edinetCode": "E30997",
+    "secCode": "34510",
+    "fundCode": "G10649",
+    "name": "トーセイ・リート投資法人",
+    "ruby": "トーセイリートトウシホウジン"
+  },
   "34520": {
     "edinetCode": "E31024",
     "secCode": "34520",
@@ -7404,6 +7439,13 @@
     "name": "ファーストブラザーズ株式会社",
     "ruby": "ファーストブラザーズカブシキガイシャ",
     "englishName": "First Brothers Co., Ltd."
+  },
+  "34550": {
+    "edinetCode": "E31280",
+    "secCode": "34550",
+    "fundCode": "G10834",
+    "name": "ヘルスケア&メディカル投資法人",
+    "ruby": "ヘルスケアアンドメディカルトウシホウジン"
   },
   "34570": {
     "edinetCode": "E31284",
@@ -7454,12 +7496,26 @@
     "ruby": "ケイアイスターフドウサンカブシキガイシャ",
     "englishName": "KI-STAR REAL ESTATE CO.,LTD"
   },
+  "34660": {
+    "edinetCode": "E32042",
+    "secCode": "34660",
+    "fundCode": "G11479",
+    "name": "ラサールロジポート投資法人",
+    "ruby": "ラサールロジポートトウシホウジン"
+  },
   "34670": {
     "edinetCode": "E32158",
     "secCode": "34670",
     "name": "アグレ都市デザイン株式会社",
     "ruby": "アグレトシデザインカブシキガイシャ",
     "englishName": "Agratio urban design Inc."
+  },
+  "34680": {
+    "edinetCode": "E32253",
+    "secCode": "34680",
+    "fundCode": "G11618",
+    "name": "スターアジア不動産投資法人",
+    "ruby": "スターアジアフドウサントウシホウジン"
   },
   "34690": {
     "edinetCode": "E32468",
@@ -7481,6 +7537,13 @@
     "fundCode": "G11760",
     "name": "三井不動産ロジスティクスパーク投資法人",
     "ruby": "ミツイフドウサンロジスティクスパークトウシホウジン"
+  },
+  "34720": {
+    "edinetCode": "E32428",
+    "secCode": "34720",
+    "fundCode": "G12111",
+    "name": "大江戸温泉リート投資法人",
+    "ruby": "オオエドオンセンリートトウシホウジン"
   },
   "34740": {
     "edinetCode": "E32486",
@@ -7509,6 +7572,13 @@
     "name": "フォーライフ株式会社",
     "ruby": "フォーライフカブシキガイシャ",
     "englishName": "FORLIFE Co., Ltd."
+  },
+  "34780": {
+    "edinetCode": "E32887",
+    "secCode": "34780",
+    "fundCode": "G12372",
+    "name": "森トラスト・ホテルリート投資法人",
+    "ruby": "モリトラストホテルリートトウシホウジン"
   },
   "34790": {
     "edinetCode": "E20616",
@@ -11149,6 +11219,13 @@
     "name": "VALUENEX株式会社",
     "ruby": "バリューネックスカブシキガイシャ",
     "englishName": "VALUENEX JAPAN Inc."
+  },
+  "44230": {
+    "edinetCode": "E34545",
+    "secCode": "44230",
+    "name": "アルテリア・ネットワークス株式会社",
+    "ruby": "アルテリアネットワークスカブシキガイシャ",
+    "englishName": "ARTERIA Networks Corporation"
   },
   "44280": {
     "edinetCode": "E34509",
@@ -17029,6 +17106,13 @@
     "name": "TPR株式会社",
     "ruby": "ティーピーアールカブシキガイシャ",
     "englishName": "TPR CO .,LTD."
+  },
+  "64640": {
+    "edinetCode": "E31954",
+    "secCode": "64640",
+    "name": "株式会社ツバキ・ナカシマ",
+    "ruby": "カブシキガイシャツバキナカシマ",
+    "englishName": ""
   },
   "64650": {
     "edinetCode": "E01654",
@@ -25969,12 +26053,26 @@
     "name": "森トラスト総合リート投資法人",
     "ruby": "モリトラストソウゴウリートトウシホウジン"
   },
+  "89630": {
+    "edinetCode": "E13833",
+    "secCode": "89630",
+    "fundCode": "G03991",
+    "name": "インヴィンシブル投資法人",
+    "ruby": "インヴィンシブルトウシホウジン"
+  },
   "89660": {
     "edinetCode": "E14005",
     "secCode": "89660",
     "fundCode": "G04284",
     "name": "平和不動産リート投資法人",
     "ruby": "ヘイワフドウサンリートトウシホウジン"
+  },
+  "89670": {
+    "edinetCode": "E14042",
+    "secCode": "89670",
+    "fundCode": "G04352",
+    "name": "日本ロジスティクスファンド投資法人",
+    "ruby": "ニホンロジスティクスファンドトウシホウジン"
   },
   "89680": {
     "edinetCode": "E14079",
@@ -26004,6 +26102,13 @@
     "name": "大和証券オフィス投資法人",
     "ruby": "ダイワショウケンオフィストウシホウジン"
   },
+  "89770": {
+    "edinetCode": "E14207",
+    "secCode": "89770",
+    "fundCode": "G04614",
+    "name": "阪急阪神リート投資法人",
+    "ruby": "ハンキュウハンシンリートトウシホウジン"
+  },
   "89790": {
     "edinetCode": "E14223",
     "secCode": "89790",
@@ -26017,6 +26122,20 @@
     "fundCode": "G04516",
     "name": "大和ハウスリート投資法人",
     "ruby": "ダイワハウスリートトウシホウジン"
+  },
+  "89850": {
+    "edinetCode": "E14273",
+    "secCode": "89850",
+    "fundCode": "G04735",
+    "name": "ジャパン・ホテル・リート投資法人",
+    "ruby": "ジャパンホテルリートトウシホウジン"
+  },
+  "89860": {
+    "edinetCode": "E14380",
+    "secCode": "89860",
+    "fundCode": "G04924",
+    "name": "日本賃貸住宅投資法人",
+    "ruby": "ニホンチンタイジュウタクトウシホウジン"
   },
   "89870": {
     "edinetCode": "E14394",
@@ -26802,6 +26921,27 @@
     "ruby": "カブシキカイシャギフト",
     "englishName": "GIFT INC."
   },
+  "92820": {
+    "edinetCode": "E32725",
+    "secCode": "92820",
+    "fundCode": "G12276",
+    "name": "いちごグリーンインフラ投資法人",
+    "ruby": "イチゴグリーンインフラトウシホウジン"
+  },
+  "92830": {
+    "edinetCode": "E32867",
+    "secCode": "92830",
+    "fundCode": "G12369",
+    "name": "日本再生可能エネルギーインフラ投資法人",
+    "ruby": "ニホンサイセイカノウエネルギーインフラトウシホウジン"
+  },
+  "92840": {
+    "edinetCode": "E33433",
+    "secCode": "92840",
+    "fundCode": "G12678",
+    "name": "カナディアン・ソーラー・インフラ投資法人",
+    "ruby": "カナディアンソーラーインフラトウシホウジン"
+  },
   "92850": {
     "edinetCode": "E34255",
     "secCode": "92850",
@@ -27270,6 +27410,13 @@
     "name": "KDDI株式会社",
     "ruby": "ケイディーディーアイカブシキガイシャ",
     "englishName": "KDDI CORPORATION"
+  },
+  "94340": {
+    "edinetCode": "E04426",
+    "secCode": "94340",
+    "name": "ソフトバンク株式会社",
+    "ruby": "ソフトバンクカブシキガイシャ",
+    "englishName": ""
   },
   "94350": {
     "edinetCode": "E04948",

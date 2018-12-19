@@ -5634,6 +5634,13 @@
     "ruby": "カブシキガイシャユーグレナ",
     "englishName": "euglena Co.,Ltd."
   },
+  "29700": {
+    "edinetCode": "E34522",
+    "secCode": "29700",
+    "name": "株式会社グッドライフカンパニー",
+    "ruby": "カブシキガイシャグッドライフカンパニー",
+    "englishName": "GOOD LIFE COMPANY, INC."
+  },
   "30010": {
     "edinetCode": "E00524",
     "secCode": "30010",
@@ -11499,6 +11506,13 @@
     "name": "アルテリア・ネットワークス株式会社",
     "ruby": "アルテリアネットワークスカブシキガイシャ",
     "englishName": "ARTERIA Networks Corporation"
+  },
+  "44250": {
+    "edinetCode": "E34507",
+    "secCode": "44250",
+    "name": "Kudan株式会社",
+    "ruby": "クダンカブシキガイシャ",
+    "englishName": ""
   },
   "44280": {
     "edinetCode": "E34509",

@@ -496,6 +496,13 @@
     "ruby": "ファーストコーポレーションカブシキカイシャ",
     "englishName": "First-corporation Inc."
   },
+  "14310": {
+    "edinetCode": "E31614",
+    "secCode": "14310",
+    "name": "株式会社Lib Work",
+    "ruby": "カブシキガイシャリブワーク",
+    "englishName": "Lib Work Co.,Ltd."
+  },
   "14330": {
     "edinetCode": "E31731",
     "secCode": "14330",
@@ -11388,6 +11395,13 @@
     "ruby": "ロジザードカブシキカイシャ",
     "englishName": "Logizard Co.,Ltd."
   },
+  "43920": {
+    "edinetCode": "E33702",
+    "secCode": "43920",
+    "name": "FIG株式会社",
+    "ruby": "エフアイジーカブシキカイシャ",
+    "englishName": "Future Innovation Group, Inc."
+  },
   "43930": {
     "edinetCode": "E34116",
     "secCode": "43930",
@@ -11506,6 +11520,13 @@
     "name": "アルテリア・ネットワークス株式会社",
     "ruby": "アルテリアネットワークスカブシキガイシャ",
     "englishName": "ARTERIA Networks Corporation"
+  },
+  "44240": {
+    "edinetCode": "E34497",
+    "secCode": "44240",
+    "name": "株式会社Amazia",
+    "ruby": "カブシキガイシャアメイジア",
+    "englishName": "Amazia, inc."
   },
   "44250": {
     "edinetCode": "E34507",
@@ -15594,6 +15615,13 @@
     "name": "株式会社フォトクリエイト",
     "ruby": "カブシキカイシャフォトクリエイト",
     "englishName": "Photocreate Co.,Ltd."
+  },
+  "60760": {
+    "edinetCode": "E27761",
+    "secCode": "60760",
+    "name": "株式会社アメイズ",
+    "ruby": "カブシキガイシャアメイズ",
+    "englishName": "Amaze Co.,Ltd."
   },
   "60770": {
     "edinetCode": "E27723",
@@ -22335,6 +22363,13 @@
     "name": "株式会社シンシア",
     "ruby": "カブシキガイシャシンシア",
     "englishName": "Sincere Co., LTD."
+  },
+  "78050": {
+    "edinetCode": "E34363",
+    "secCode": "78050",
+    "name": "プリントネット株式会社",
+    "ruby": "プリントネットカブシキカイシャ",
+    "englishName": "PRINTNET INC."
   },
   "78060": {
     "edinetCode": "E34054",

@@ -31,8 +31,8 @@
     "edinetCode": "E12460",
     "secCode": "13090",
     "fundCode": "G05589",
-    "name": "上海株式指数・上証50連動型上場投資信託",
-    "ruby": "シャンハイカブシキシスウ ジョウショウゴジュウレンドウガタジョウジョウトウシシンタク"
+    "name": "NEXT FUNDS ChinaAMC・中国株式・上証50連動型上場投信",
+    "ruby": "ネクストファンズチャイナエーエムシーチュウゴクカブシキシャンジャンゴジュウレンドウガタジョウジョウトウシン"
   },
   "13100": {
     "edinetCode": "E06748",
@@ -115,8 +115,8 @@
     "edinetCode": "E12430",
     "secCode": "13220",
     "fundCode": "G06820",
-    "name": "上場インデックスファンド中国A株(パンダ)CSI300",
-    "ruby": "ジョウジョウインデックスファンドチュウゴクエーカブパンダシーエスアイサンビャク"
+    "name": "上場インデックスファンド中国A株(パンダ)E Fund CSI300",
+    "ruby": "ジョウジョウインデックスファンドチュウゴクエーカブ パンダ イー ファンド シーエスアイサンビャク"
   },
   "13230": {
     "edinetCode": "E12460",
@@ -1929,7 +1929,7 @@
     "secCode": "17830",
     "name": "株式会社アジアゲートホールディングス",
     "ruby": "カブシキガイシャ アジアゲートホールディングス",
-    "englishName": "Asia Gate Holdings Co.,Ltd."
+    "englishName": "Asia Gate Holdings Co., Ltd."
   },
   "17870": {
     "edinetCode": "E00260",
@@ -3684,8 +3684,8 @@
   "23270": {
     "edinetCode": "E05304",
     "secCode": "23270",
-    "name": "新日鉄住金ソリューションズ株式会社",
-    "ruby": "シンニッテツスミキンソリューションズカブシキガイシャ",
+    "name": "日鉄ソリューションズ株式会社",
+    "ruby": "ニッテツソリューションズカブシキガイシャ",
     "englishName": "NS Solutions Corporation"
   },
   "23290": {
@@ -3810,9 +3810,9 @@
   "23540": {
     "edinetCode": "E05328",
     "secCode": "23540",
-    "name": "安川情報システム株式会社",
-    "ruby": "ヤスカワジョウホウシステムカブシキガイシャ",
-    "englishName": "YASKAWA INFORMATION SYSTEMS Corporation"
+    "name": "株式会社YE DIGITAL",
+    "ruby": "カブシキガイシャワイイーデジタル",
+    "englishName": "YE DIGITAL Corporation"
   },
   "23590": {
     "edinetCode": "E05332",
@@ -4160,9 +4160,9 @@
   "24450": {
     "edinetCode": "E05493",
     "secCode": "24450",
-    "name": "エスアールジータカミヤ株式会社",
-    "ruby": "エスアールジータカミヤカブシキガイシャ",
-    "englishName": "SRG TAKAMIYA CO.,LTD."
+    "name": "株式会社タカミヤ",
+    "ruby": "カブシキガイシャタカミヤ",
+    "englishName": "Takamiya Co.,Ltd."
   },
   "24490": {
     "edinetCode": "E05498",
@@ -4542,6 +4542,20 @@
     "name": "ダイワ上場投信-東証REIT Core指数",
     "ruby": "ダイワジョウジョウトウシントウショウリートコアシスウ"
   },
+  "25290": {
+    "edinetCode": "E12460",
+    "secCode": "25290",
+    "fundCode": "G13415",
+    "name": "NEXT FUNDS 野村株主還元70連動型上場投信",
+    "ruby": "ネクストファンズノムラカブヌシカンゲンナナジュウレンドウガタジョウジョウトウシン"
+  },
+  "25300": {
+    "edinetCode": "E11518",
+    "secCode": "25300",
+    "fundCode": "G13457",
+    "name": "MAXIS HuaAn中国株式(上海180A株)上場投信",
+    "ruby": "マクシスファーアンチュウゴクカブシキシャンハイヒャクハチジュウエーカブジョウジョウトウシン"
+  },
   "25310": {
     "edinetCode": "E00396",
     "secCode": "25310",
@@ -4569,6 +4583,41 @@
     "name": "マルサンアイ株式会社",
     "ruby": "マルサンアイカブシキガイシャ",
     "englishName": "MARUSAN-AI  CO.,LTD."
+  },
+  "25520": {
+    "edinetCode": "E12430",
+    "secCode": "25520",
+    "fundCode": "G13448",
+    "name": "上場インデックスファンドJリート(東証REIT指数)隔月分配型(ミニ)",
+    "ruby": "ジョウジョウインデックスファンドジェイリート トウショウリートシスウ カクゲツブンパイガタ ミニ"
+  },
+  "25530": {
+    "edinetCode": "E10677",
+    "secCode": "25530",
+    "fundCode": "G13458",
+    "name": "One ETF 南方 中国A株 CSI500",
+    "ruby": "ワン イーティーエフ ナンポウ チュウゴクエーカブ シーエスアイゴヒャク"
+  },
+  "25540": {
+    "edinetCode": "E12460",
+    "secCode": "25540",
+    "fundCode": "G13475",
+    "name": "NEXT FUNDS ブルームバーグ・バークレイズ米国投資適格社債(1-10年)インデックス(為替ヘッジあり)連動型上場投信",
+    "ruby": "ネクストファンズブルームバーグバークレイズベイコクトウシテキカクシャサイイチジュウネンインデックスカワセヘッジアリレンドウガタジョウジョウトウシン"
+  },
+  "25550": {
+    "edinetCode": "E14415",
+    "secCode": "25550",
+    "fundCode": "G13493",
+    "name": "東証REIT ETF",
+    "ruby": "トウショウリート イーティーエフ"
+  },
+  "25560": {
+    "edinetCode": "E10677",
+    "secCode": "25560",
+    "fundCode": "G13513",
+    "name": "One ETF 東証REIT指数",
+    "ruby": "ワンイーティーエフトウショウリートシスウ"
   },
   "25730": {
     "edinetCode": "E00408",
@@ -4895,9 +4944,9 @@
   "26950": {
     "edinetCode": "E03375",
     "secCode": "26950",
-    "name": "株式会社 くらコーポレーション",
-    "ruby": "カブシキガイシャ クラコーポレーション",
-    "englishName": "KURA CORPORATION"
+    "name": "くら寿司株式会社",
+    "ruby": "クラズシカブシキガイシャ",
+    "englishName": "Kura Sushi,Inc."
   },
   "26980": {
     "edinetCode": "E03377",
@@ -5725,6 +5774,27 @@
     "name": "サンケイリアルエステート投資法人",
     "ruby": "サンケイリアルエステートトウシホウジン"
   },
+  "29740": {
+    "edinetCode": "E34944",
+    "secCode": "29740",
+    "name": "大英産業株式会社",
+    "ruby": "ダイエイサンギョウカブシキカイシャ",
+    "englishName": ""
+  },
+  "29750": {
+    "edinetCode": "E34707",
+    "secCode": "29750",
+    "name": "スター・マイカ・ホールディングス株式会社",
+    "ruby": "スターマイカホールディングスカブシキガイシャ",
+    "englishName": ""
+  },
+  "29760": {
+    "edinetCode": "E34938",
+    "secCode": "29760",
+    "name": "日本グランデ株式会社",
+    "ruby": "ニッポングランデカブシキカイシャ",
+    "englishName": "Nippon Grande Co.,Ltd."
+  },
   "30010": {
     "edinetCode": "E00524",
     "secCode": "30010",
@@ -5889,9 +5959,9 @@
   "30460": {
     "edinetCode": "E03471",
     "secCode": "30460",
-    "name": "株式会社ジンズ",
-    "ruby": "ジンズ",
-    "englishName": "JINS Inc."
+    "name": "株式会社ジンズホールディングス",
+    "ruby": "ジンズホールディングス",
+    "englishName": "JINS HOLDINGS Inc."
   },
   "30470": {
     "edinetCode": "E03482",
@@ -6120,7 +6190,7 @@
   "30920": {
     "edinetCode": "E05725",
     "secCode": "30920",
-    "name": "株式会社ゾゾ",
+    "name": "株式会社ZOZO",
     "ruby": "カブシキガイシャゾゾ",
     "englishName": "ZOZO, Inc."
   },
@@ -6393,9 +6463,9 @@
   "31560": {
     "edinetCode": "E23245",
     "secCode": "31560",
-    "name": "株式会社UKCホールディングス",
-    "ruby": "カブシキガイシャユーケーシーホールディングス",
-    "englishName": "UKC Holdings Corporation"
+    "name": "株式会社レスターホールディングス",
+    "ruby": "カブシキガイシャレスターホールディングス",
+    "englishName": "Restar Holdings Corporation"
   },
   "31570": {
     "edinetCode": "E23288",
@@ -8206,9 +8276,9 @@
   "35460": {
     "edinetCode": "E32382",
     "secCode": "35460",
-    "name": "ダイユー・リックホールディングス株式会社",
-    "ruby": "ダイユー リックホールディングスカブシキカイシャ",
-    "englishName": "DAIYU LIC HOLDINGS CO., LTD."
+    "name": "アレンザホールディングス株式会社",
+    "ruby": "アレンザホールディングスカブシキガイシャ",
+    "englishName": "Alleanza Holdings Co., Ltd."
   },
   "35470": {
     "edinetCode": "E32592",
@@ -9207,9 +9277,9 @@
   "37770": {
     "edinetCode": "E05510",
     "secCode": "37770",
-    "name": "株式会社ジオネクスト",
-    "ruby": "カブシキガイシャジオネクスト",
-    "englishName": "GEONEXT Corporation"
+    "name": "株式会社FHTホールディングス",
+    "ruby": "カブシキガイシャエフエイチティーホールディングス",
+    "englishName": "FHT holdings Corp."
   },
   "37780": {
     "edinetCode": "E05518",
@@ -9349,7 +9419,7 @@
     "secCode": "38080",
     "name": "株式会社オウケイウェイヴ",
     "ruby": "カブシキガイシャオウケイウェイヴ",
-    "englishName": "OKWave"
+    "englishName": "OKWAVE, Inc."
   },
   "38100": {
     "edinetCode": "E05601",
@@ -9536,7 +9606,7 @@
   "38450": {
     "edinetCode": "E05682",
     "secCode": "38450",
-    "name": "株式会社アイフリーク モバイル",
+    "name": "株式会社アイフリークモバイル",
     "ruby": "カブシキガイシャアイフリークモバイル",
     "englishName": "I-FREEK MOBILE INC."
   },
@@ -9760,9 +9830,9 @@
   "39090": {
     "edinetCode": "E27894",
     "secCode": "39090",
-    "name": "株式会社ショーケース・ティービー",
-    "ruby": "カブシキガイシャショーケースティービー",
-    "englishName": "Showcase-TV Inc."
+    "name": "株式会社ショーケース",
+    "ruby": "カブシキガイシャショーケース",
+    "englishName": "Showcase Inc."
   },
   "39100": {
     "edinetCode": "E30993",
@@ -10691,9 +10761,9 @@
   "41510": {
     "edinetCode": "E00816",
     "secCode": "41510",
-    "name": "協和発酵キリン株式会社",
-    "ruby": "キョウワハッコウキリンカブシキガイシャ",
-    "englishName": "Kyowa Hakko Kirin Co.,Ltd."
+    "name": "協和キリン株式会社",
+    "ruby": "キョウワキリンカブシキガイシャ",
+    "englishName": "Kyowa Kirin Co.,Ltd."
   },
   "41820": {
     "edinetCode": "E00815",
@@ -11622,8 +11692,8 @@
   "44280": {
     "edinetCode": "E34509",
     "secCode": "44280",
-    "name": "株式会社リンク",
-    "ruby": "カブシキガイシャリンク",
+    "name": "株式会社シノプス",
+    "ruby": "カブシキガイシャシノプス",
     "englishName": ""
   },
   "44290": {
@@ -11631,6 +11701,13 @@
     "secCode": "44290",
     "name": "リックソフト株式会社",
     "ruby": "リックソフトカブシキガイシャ",
+    "englishName": ""
+  },
+  "44300": {
+    "edinetCode": "E34663",
+    "secCode": "44300",
+    "name": "東海ソフト株式会社",
+    "ruby": "トウカイソフトカブシキガイシャ",
     "englishName": ""
   },
   "44310": {
@@ -11646,6 +11723,97 @@
     "name": "株式会社ヒト・コミュニケーションズ・ホールディングス",
     "ruby": "カブシキカイシャヒトコミュニケーションズホールディングス",
     "englishName": "HITO-Communications Holdings,Inc."
+  },
+  "44340": {
+    "edinetCode": "E31580",
+    "secCode": "44340",
+    "name": "株式会社サーバーワークス",
+    "ruby": "カブシキガイシャサーバーワークス",
+    "englishName": ""
+  },
+  "44350": {
+    "edinetCode": "E34712",
+    "secCode": "44350",
+    "name": "株式会社カオナビ",
+    "ruby": "カブシキガイシャカオナビ",
+    "englishName": ""
+  },
+  "44360": {
+    "edinetCode": "E34754",
+    "secCode": "44360",
+    "name": "株式会社ミンカブ・ジ・インフォノイド",
+    "ruby": "カブシキカイシャミンカブジインフォノイド",
+    "englishName": "MINKABU THE INFONOID, Inc."
+  },
+  "44370": {
+    "edinetCode": "E34587",
+    "secCode": "44370",
+    "name": "gooddaysホールディングス株式会社",
+    "ruby": "グッドディズホールディングスカブシキガイシャ",
+    "englishName": "gooddays holdings,Inc."
+  },
+  "44380": {
+    "edinetCode": "E34721",
+    "secCode": "44380",
+    "name": "株式会社Welby",
+    "ruby": "カブシキカイシャウェルビー",
+    "englishName": "Welby Inc."
+  },
+  "44390": {
+    "edinetCode": "E34729",
+    "secCode": "44390",
+    "name": "株式会社東名",
+    "ruby": "カブシキガイシャトウメイ",
+    "englishName": "TOUMEI CO., LTD."
+  },
+  "44400": {
+    "edinetCode": "E34739",
+    "secCode": "44400",
+    "name": "株式会社ヴィッツ",
+    "ruby": "カブシキガイシャヴィッツ",
+    "englishName": "WITZ Corporation"
+  },
+  "44410": {
+    "edinetCode": "E34814",
+    "secCode": "44410",
+    "name": "トビラシステムズ株式会社",
+    "ruby": "トビラシステムズカブシキガイシャ",
+    "englishName": "Tobila Systems Inc."
+  },
+  "44420": {
+    "edinetCode": "E34880",
+    "secCode": "44420",
+    "name": "バルテス株式会社",
+    "ruby": "バルテスカブシキガイシャ",
+    "englishName": "VALTES CO.,LTD."
+  },
+  "44430": {
+    "edinetCode": "E34960",
+    "secCode": "44430",
+    "name": "Sansan株式会社",
+    "ruby": "サンサンカブシキガイシャ",
+    "englishName": "Sansan, Inc."
+  },
+  "44440": {
+    "edinetCode": "E34974",
+    "secCode": "44440",
+    "name": "株式会社インフォネット",
+    "ruby": "カブシキガイシャインフォネット",
+    "englishName": ""
+  },
+  "44450": {
+    "edinetCode": "E34513",
+    "secCode": "44450",
+    "name": "リビン・テクノロジーズ株式会社",
+    "ruby": "リビンテクノロジーズカブシキガイシャ",
+    "englishName": "Living Technologies Inc."
+  },
+  "44460": {
+    "edinetCode": "E34853",
+    "secCode": "44460",
+    "name": "株式会社Link-U",
+    "ruby": "カブシキガイシャリンクユー",
+    "englishName": ""
   },
   "44520": {
     "edinetCode": "E00883",
@@ -12193,6 +12361,13 @@
     "ruby": "デルタフライファーマカブシキカイシャ",
     "englishName": "Delta-Fly Pharma, Inc."
   },
+  "45990": {
+    "edinetCode": "E34999",
+    "secCode": "45990",
+    "name": "株式会社ステムリム",
+    "ruby": "カブシキガイシャステムリム",
+    "englishName": "StemRIM"
+  },
   "46110": {
     "edinetCode": "E00891",
     "secCode": "46110",
@@ -12644,9 +12819,9 @@
   "47090": {
     "edinetCode": "E05017",
     "secCode": "47090",
-    "name": "株式会社インフォメーション・ディベロプメント",
-    "ruby": "カブシキガイシャインフォメーションディベロプメント",
-    "englishName": "INFORMATION DEVELOPMENT CO.,LTD."
+    "name": "株式会社IDホールディングス",
+    "ruby": "カブシキガイシャアイディーホールディングス",
+    "englishName": "ID Holdings Corporation"
   },
   "47120": {
     "edinetCode": "E05020",
@@ -12742,8 +12917,8 @@
   "47350": {
     "edinetCode": "E05053",
     "secCode": "47350",
-    "name": "株式会社 京進",
-    "ruby": "カブシキガイシャ キョウシン",
+    "name": "株式会社京進",
+    "ruby": "カブシキガイシャキョウシン",
     "englishName": "KYOSHIN CO.,LTD."
   },
   "47360": {
@@ -13327,6 +13502,13 @@
     "ruby": "カブシキガイシャアジュバンコスメジャパン",
     "englishName": "ADJUVANT COSME JAPAN CO.,LTD."
   },
+  "49310": {
+    "edinetCode": "E34965",
+    "secCode": "49310",
+    "name": "新日本製薬株式会社",
+    "ruby": "シンニホンセイヤクカブシキガイシャ",
+    "englishName": "Shinnihonseiyaku Co., Ltd."
+  },
   "49510": {
     "edinetCode": "E01019",
     "secCode": "49510",
@@ -13715,9 +13897,9 @@
   "51210": {
     "edinetCode": "E01094",
     "secCode": "51210",
-    "name": "藤倉ゴム工業株式会社",
-    "ruby": "フジクラゴムコウギョウカブシキガイシャ",
-    "englishName": "Fujikura Rubber Ltd."
+    "name": "藤倉コンポジット株式会社",
+    "ruby": "フジクラコンポジットカブシキガイシャ",
+    "englishName": "FUJIKURA COMPOSITES Inc."
   },
   "51220": {
     "edinetCode": "E01100",
@@ -14268,9 +14450,9 @@
   "54010": {
     "edinetCode": "E01225",
     "secCode": "54010",
-    "name": "新日鐵住金株式会社",
-    "ruby": "シンニッテツスミキンカブシキガイシャ",
-    "englishName": "NIPPON STEEL & SUMITOMO METAL CORPORATION"
+    "name": "日本製鉄株式会社",
+    "ruby": "ニッポンセイテツカブシキガイシャ",
+    "englishName": "NIPPON STEEL CORPORATION"
   },
   "54060": {
     "edinetCode": "E01231",
@@ -15668,9 +15850,9 @@
   "60670": {
     "edinetCode": "E26836",
     "secCode": "60670",
-    "name": "株式会社メディアフラッグ",
-    "ruby": "カブシキガイシャメディアフラッグ",
-    "englishName": "mediaflaginc."
+    "name": "インパクトホールディングス株式会社",
+    "ruby": "インパクトホールディングスカブシキガイシャ",
+    "englishName": "Impact HD Inc."
   },
   "60680": {
     "edinetCode": "E26708",
@@ -16270,9 +16452,9 @@
   "61890": {
     "edinetCode": "E32156",
     "secCode": "61890",
-    "name": "株式会社グローバルグループ",
-    "ruby": "カブシキガイシャグローバルグループ",
-    "englishName": "Global Group Corp."
+    "name": "株式会社グローバルキッズCOMPANY",
+    "ruby": "カブシキガイシャグローバルキッズカンパニー",
+    "englishName": "Global Kids Company Corp."
   },
   "61900": {
     "edinetCode": "E32153",
@@ -16377,7 +16559,7 @@
     "secCode": "62080",
     "name": "株式会社石川製作所",
     "ruby": "カブシキガイシャイシカワセイサクショ",
-    "englishName": "Ishikawa Seisakusho,Ltd"
+    "englishName": "Ishikawa Seisakusho, Ltd."
   },
   "62100": {
     "edinetCode": "E01528",
@@ -16627,9 +16809,9 @@
   "62740": {
     "edinetCode": "E01973",
     "secCode": "62740",
-    "name": "株式会社新川",
-    "ruby": "カブシキガイシャシンカワ",
-    "englishName": "SHINKAWA LTD."
+    "name": "ヤマハモーターロボティクスホールディングス株式会社",
+    "ruby": "ヤマハモーターロボティクスホールディングスカブシキガイシャ",
+    "englishName": "Yamaha Motor Robotics Holdings Co., Ltd."
   },
   "62760": {
     "edinetCode": "E01675",
@@ -17187,9 +17369,9 @@
   "63790": {
     "edinetCode": "E01577",
     "secCode": "63790",
-    "name": "新興プランテック株式会社",
-    "ruby": "シンコウプランテックカブシキガイシャ",
-    "englishName": "Shinko Plantech Co.,Ltd."
+    "name": "レイズネクスト株式会社",
+    "ruby": "レイズネクストカブシキガイシャ",
+    "englishName": "RAIZNEXT Corporation"
   },
   "63800": {
     "edinetCode": "E01581",
@@ -17810,9 +17992,9 @@
   "65130": {
     "edinetCode": "E01751",
     "secCode": "65130",
-    "name": "オリジン電気株式会社",
-    "ruby": "オリジンデンキカブシキガイシャ",
-    "englishName": "Origin Electric Company,Limited"
+    "name": "株式会社オリジン",
+    "ruby": "カブシキガイシャオリジン",
+    "englishName": "Origin Company, Limited"
   },
   "65160": {
     "edinetCode": "E01806",
@@ -17971,9 +18153,9 @@
   "65510": {
     "edinetCode": "E33272",
     "secCode": "65510",
-    "name": "株式会社ツナグ・ソリューションズ",
-    "ruby": "カブシキガイシャツナグソリューションズ",
-    "englishName": "TSUNAGU SOLUTIONS Inc."
+    "name": "株式会社ツナググループ・ホールディングス",
+    "ruby": "カブシキガイシャツナググループホールディングス",
+    "englishName": "TSUNAGU GROUP HOLDINGS Inc."
   },
   "65520": {
     "edinetCode": "E33254",
@@ -20215,6 +20397,90 @@
     "ruby": "フロンティアインターナショナル",
     "englishName": "FRONTIER INTERNATIONAL INC."
   },
+  "70570": {
+    "edinetCode": "E34716",
+    "secCode": "70570",
+    "name": "株式会社エヌ・シー・エヌ",
+    "ruby": "カブシキガイシャエヌシーエヌ",
+    "englishName": ""
+  },
+  "70580": {
+    "edinetCode": "E34722",
+    "secCode": "70580",
+    "name": "共栄セキュリティーサービス株式会社",
+    "ruby": "キョウエイセキュリティーサービスカブシキカイシャ",
+    "englishName": "Kyoei Security Service Co., Ltd."
+  },
+  "70590": {
+    "edinetCode": "E34699",
+    "secCode": "70590",
+    "name": "株式会社コプロ・ホールディングス",
+    "ruby": "カブシキガイシャコプロホールディングス",
+    "englishName": "COPRO-HOLDINGS. Co., Ltd."
+  },
+  "70600": {
+    "edinetCode": "E34720",
+    "secCode": "70600",
+    "name": "ギークス株式会社",
+    "ruby": "ギークスカブシキガイシャ",
+    "englishName": "geechs inc."
+  },
+  "70610": {
+    "edinetCode": "E34735",
+    "secCode": "70610",
+    "name": "日本ホスピスホールディングス株式会社",
+    "ruby": "ニホンホスピスホールディングスカブシキガイシャ",
+    "englishName": "Japan Hospice Holdings Inc."
+  },
+  "70620": {
+    "edinetCode": "E34725",
+    "secCode": "70620",
+    "name": "株式会社フレアス",
+    "ruby": "カブシキカイシャフレアス",
+    "englishName": "Fureasu Co.,Ltd."
+  },
+  "70630": {
+    "edinetCode": "E34748",
+    "secCode": "70630",
+    "name": "株式会社エードット",
+    "ruby": "カブシキガイシャエードット",
+    "englishName": "a dot co.,td"
+  },
+  "70640": {
+    "edinetCode": "E34866",
+    "secCode": "70640",
+    "name": "株式会社ハウテレビジョン",
+    "ruby": "カブシキカイシャハウテレビジョン",
+    "englishName": "Howtelevision,Inc"
+  },
+  "70650": {
+    "edinetCode": "E31743",
+    "secCode": "70650",
+    "name": "ユーピーアール株式会社",
+    "ruby": "ユーピーアールカブシキカイシャ",
+    "englishName": ""
+  },
+  "70660": {
+    "edinetCode": "E34954",
+    "secCode": "70660",
+    "name": "株式会社ピアズ",
+    "ruby": "カブシキガイシャピアズ",
+    "englishName": ""
+  },
+  "70670": {
+    "edinetCode": "E34975",
+    "secCode": "70670",
+    "name": "ブランディングテクノロジー株式会社",
+    "ruby": "ブランディングテクノロジーカブシキガイシャ",
+    "englishName": ""
+  },
+  "70680": {
+    "edinetCode": "E34995",
+    "secCode": "70680",
+    "name": "株式会社フィードフォース",
+    "ruby": "カブシキガイシャフィードフォース",
+    "englishName": ""
+  },
   "71020": {
     "edinetCode": "E02134",
     "secCode": "71020",
@@ -20953,9 +21219,9 @@
   "73150": {
     "edinetCode": "E27671",
     "secCode": "73150",
-    "name": "IJTテクノロジーホールディングス株式会社",
-    "ruby": "アイジェイティーテクノロジーホールディングスカブシキガイシャ",
-    "englishName": "IJT Technology Holdings Co.,Ltd."
+    "name": "株式会社IJTT",
+    "ruby": "カブシキガイシャアイジェイティティ",
+    "englishName": "IJTT Co.,Ltd."
   },
   "73200": {
     "edinetCode": "E33854",
@@ -21760,7 +22026,7 @@
     "secCode": "75710",
     "name": "株式会社ヤマノホールディングス",
     "ruby": "カブシキカイシャヤマノホールディングス",
-    "englishName": "YAMANOHOLDINGCORPORATION"
+    "englishName": "YAMANO HOLDINGS CORPORATION"
   },
   "75750": {
     "edinetCode": "E02881",
@@ -21828,9 +22094,9 @@
   "75940": {
     "edinetCode": "E02891",
     "secCode": "75940",
-    "name": "マルカキカイ株式会社",
-    "ruby": "マルカキカイカブシキガイシャ",
-    "englishName": "MARUKA MACHINERY CO., LTD."
+    "name": "株式会社マルカ",
+    "ruby": "カブシキガイシャマルカ",
+    "englishName": "Maruka Corporation"
   },
   "75950": {
     "edinetCode": "E05018",
@@ -22140,6 +22406,48 @@
     "ruby": "カブシキガイシャアミダホールディングス",
     "englishName": ""
   },
+  "76730": {
+    "edinetCode": "E34644",
+    "secCode": "76730",
+    "name": "ダイコー通産株式会社",
+    "ruby": "ダイコーツウサンカブシキガイシャ",
+    "englishName": "DAIKO TSUSAN CO.,LTD."
+  },
+  "76740": {
+    "edinetCode": "E34747",
+    "secCode": "76740",
+    "name": "株式会社NATTY SWANKY",
+    "ruby": "カブシキガイシャナッティースワンキー",
+    "englishName": ""
+  },
+  "76750": {
+    "edinetCode": "E34565",
+    "secCode": "76750",
+    "name": "セントラルフォレストグループ株式会社",
+    "ruby": "セントラルフォレストグループカブシキガイシャ",
+    "englishName": "Central Forest Group, Inc."
+  },
+  "76760": {
+    "edinetCode": "E34819",
+    "secCode": "76760",
+    "name": "株式会社グッドスピード",
+    "ruby": "カブシキガイシャグッドスピード",
+    "englishName": "GOODSPEED. CO., LTD."
+  },
+  "76770": {
+    "edinetCode": "E34499",
+    "secCode": "76770",
+    "name": "株式会社ヤシマキザイ",
+    "ruby": "カブシキカイシャヤシマキザイ",
+    "englishName": "Yashima & Co., Ltd."
+  },
+  "76780": {
+    "edinetCode": "E34704",
+    "secCode": "76780",
+    "name": "株式会社あさくま",
+    "ruby": "カブシキガイシャアサクマ",
+    "englishName": ""
+  },
   "77010": {
     "edinetCode": "E02265",
     "secCode": "77010",
@@ -22416,9 +22724,9 @@
   "77580": {
     "edinetCode": "E02287",
     "secCode": "77580",
-    "name": "株式会社セコニックホールディングス",
-    "ruby": "カブシキガイシャセコニックホールディングス",
-    "englishName": "SEKONIC HOLDINGS CORPORATION"
+    "name": "株式会社セコニック",
+    "ruby": "カブシキガイシャセコニック",
+    "englishName": "SEKONIC CORPORATION"
   },
   "77600": {
     "edinetCode": "E02352",
@@ -22517,6 +22825,20 @@
     "name": "株式会社シンシア",
     "ruby": "カブシキガイシャシンシア",
     "englishName": "Sincere Co., LTD."
+  },
+  "78030": {
+    "edinetCode": "E35004",
+    "secCode": "78030",
+    "name": "株式会社ブシロード",
+    "ruby": "カブシキガイシャブシロード",
+    "englishName": "Bushiroad Inc."
+  },
+  "78040": {
+    "edinetCode": "E34800",
+    "secCode": "78040",
+    "name": "株式会社ビーアンドピー",
+    "ruby": "カブシキガイシャビーアンドピー",
+    "englishName": ""
   },
   "78050": {
     "edinetCode": "E34363",
@@ -23558,7 +23880,7 @@
     "edinetCode": "E01164",
     "secCode": "79950",
     "name": "株式会社バルカー",
-    "ruby": "ニッポンバルカーコウギョウカブシキガイシャ",
+    "ruby": "カブシキガイシャバルカー",
     "englishName": "VALQUA , LTD."
   },
   "79970": {
@@ -27367,7 +27689,7 @@
     "secCode": "92680",
     "name": "株式会社オプティマスグループ",
     "ruby": "カブシキガイシャオプティマスグループ",
-    "englishName": "OPTIMUS GROUP Co., Ltd."
+    "englishName": "OPTIMUS GROUP COMPANY LIMITED"
   },
   "92700": {
     "edinetCode": "E33807",
@@ -28037,9 +28359,9 @@
   "94680": {
     "edinetCode": "E30731",
     "secCode": "94680",
-    "name": "カドカワ株式会社",
-    "ruby": "カドカワカブシキカイシャ",
-    "englishName": "KADOKAWA DWANGO CORPORATION"
+    "name": "株式会社KADOKAWA",
+    "ruby": "カブシキガイシャカドカワ",
+    "englishName": "KADOKAWA CORPORATION"
   },
   "94700": {
     "edinetCode": "E00707",
@@ -28165,7 +28487,7 @@
     "secCode": "95110",
     "name": "沖縄電力株式会社",
     "ruby": "オキナワデンリョクカブシキガイシャ",
-    "englishName": "The Okinawa Electric Power Company,Incorporated"
+    "englishName": "The Okinawa Electric Power Company, Incorporated"
   },
   "95130": {
     "edinetCode": "E04510",
@@ -29115,9 +29437,9 @@
   "98100": {
     "edinetCode": "E02640",
     "secCode": "98100",
-    "name": "日鉄住金物産株式会社",
-    "ruby": "ニッテツスミキンブッサンカブシキガイシャ",
-    "englishName": "NIPPON STEEL & SUMIKIN BUSSAN CORPORATION"
+    "name": "日鉄物産株式会社",
+    "ruby": "ニッテツブッサンカブシキガイシャ",
+    "englishName": "NIPPON STEEL TRADING CORPORATION"
   },
   "98120": {
     "edinetCode": "E03169",
@@ -29432,7 +29754,7 @@
     "secCode": "98900",
     "name": "株式会社マキヤ",
     "ruby": "カブシキガイシャマキヤ",
-    "englishName": "MAKIYA CO., LTD."
+    "englishName": "MAKIYA CO.,LTD."
   },
   "98920": {
     "edinetCode": "E02730",
@@ -29867,12 +30189,5 @@
     "name": "株式会社ベルーナ",
     "ruby": "カブシキガイシャベルーナ",
     "englishName": "BELLUNA CO.,LTD."
-  },
-  "04430": {
-    "edinetCode": "E34663",
-    "secCode": "04430",
-    "name": "東海ソフト株式会社",
-    "ruby": "トウカイソフトカブシキガイシャ",
-    "englishName": ""
   }
 }

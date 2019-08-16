@@ -3873,9 +3873,9 @@
   "23750": {
     "edinetCode": "E05356",
     "secCode": "23750",
-    "name": "スリープログループ株式会社",
-    "ruby": "スリープログループカブシキガイシャ",
-    "englishName": "ThreePro Group Inc."
+    "name": "ギグワークス株式会社",
+    "ruby": "ギグワークスカブシキカイシャ",
+    "englishName": "GIG Works Inc."
   },
   "23760": {
     "edinetCode": "E00744",
@@ -11820,6 +11820,13 @@
     "secCode": "44460",
     "name": "株式会社Link-U",
     "ruby": "カブシキガイシャリンクユー",
+    "englishName": ""
+  },
+  "44470": {
+    "edinetCode": "E33384",
+    "secCode": "44470",
+    "name": "株式会社ピー・ビーシステムズ",
+    "ruby": "カブシキガイシャピービーシステムズ",
     "englishName": ""
   },
   "44520": {

@@ -11836,6 +11836,13 @@
     "ruby": "チャットワークカブシキガイシャ",
     "englishName": "Chatwork Co.,Ltd."
   },
+  "44490": {
+    "edinetCode": "E35096",
+    "secCode": "44490",
+    "name": "株式会社ギフティ",
+    "ruby": "カブシキガイシャギフティ",
+    "englishName": "giftee Inc."
+  },
   "44520": {
     "edinetCode": "E00883",
     "secCode": "44520",
@@ -22881,6 +22888,13 @@
     "name": "株式会社シンシア",
     "ruby": "カブシキガイシャシンシア",
     "englishName": "Sincere Co., LTD."
+  },
+  "78000": {
+    "edinetCode": "E34028",
+    "secCode": "78000",
+    "name": "株式会社アミファ",
+    "ruby": "カブシキガイシャアミファ",
+    "englishName": "Amifa Co., Ltd."
   },
   "78030": {
     "edinetCode": "E35004",

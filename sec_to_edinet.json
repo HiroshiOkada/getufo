@@ -2655,9 +2655,9 @@
   "19630": {
     "edinetCode": "E01575",
     "secCode": "19630",
-    "name": "日揮株式会社",
-    "ruby": "ニッキカブシキガイシャ",
-    "englishName": "JGC CORPORATION"
+    "name": "日揮ホールディングス株式会社",
+    "ruby": "ニッキホールディングスカブシキガイシャ",
+    "englishName": "JGC HOLDINGS CORPORATION"
   },
   "19640": {
     "edinetCode": "E00119",
@@ -12777,9 +12777,9 @@
   "46890": {
     "edinetCode": "E05000",
     "secCode": "46890",
-    "name": "ヤフー株式会社",
-    "ruby": "ヤフーカブシキガイシャ",
-    "englishName": "Yahoo Japan Corporation"
+    "name": "Zホールディングス株式会社",
+    "ruby": "ゼットホールディングスカブシキガイシャ",
+    "englishName": "Z Holdings Corporation"
   },
   "46900": {
     "edinetCode": "E05001",
@@ -15878,9 +15878,9 @@
   "60650": {
     "edinetCode": "E26716",
     "secCode": "60650",
-    "name": "ライクキッズネクスト株式会社",
-    "ruby": "ライクキッズネクストカブシキガイシャ",
-    "englishName": "LIKE Kidsnext Co.,Ltd."
+    "name": "ライクキッズ株式会社",
+    "ruby": "ライクキッズカブシキガイシャ",
+    "englishName": "LIKE Kids,Inc."
   },
   "60670": {
     "edinetCode": "E26836",
@@ -25741,9 +25741,9 @@
   "84250": {
     "edinetCode": "E05426",
     "secCode": "84250",
-    "name": "興銀リース株式会社",
-    "ruby": "コウギンリースカブシキガイシャ",
-    "englishName": "IBJ Leasing Company, Limited"
+    "name": "みずほリース株式会社",
+    "ruby": "ミズホリースカブシキガイシャ",
+    "englishName": "Mizuho Leasing Company, Limited"
   },
   "84390": {
     "edinetCode": "E05346",

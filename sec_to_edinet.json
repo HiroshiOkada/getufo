@@ -12917,9 +12917,9 @@
   "47260": {
     "edinetCode": "E05037",
     "secCode": "47260",
-    "name": "ソフトバンク・テクノロジー株式会社",
-    "ruby": "ソフトバンクテクノロジーカブシキガイシャ",
-    "englishName": "SOFTBANK TECHNOLOGY CORP."
+    "name": "SBテクノロジー株式会社",
+    "ruby": "エスビーテクノロジーカブシキガイシャ",
+    "englishName": "SB TECHNOLOGY CORP."
   },
   "47280": {
     "edinetCode": "E05042",
@@ -13302,9 +13302,9 @@
   "48280": {
     "edinetCode": "E05167",
     "secCode": "48280",
-    "name": "東洋ビジネスエンジニアリング株式会社",
-    "ruby": "トウヨウビジネスエンジニアリングカブシキガイシャ",
-    "englishName": "Toyo Business Engineering Corporation"
+    "name": "ビジネスエンジニアリング株式会社",
+    "ruby": "ビジネスエンジニアリングカブシキガイシャ",
+    "englishName": "Business Engineering Corporation"
   },
   "48290": {
     "edinetCode": "E05169",
@@ -27988,8 +27988,8 @@
   "93250": {
     "edinetCode": "E32990",
     "secCode": "93250",
-    "name": "株式会社ファイズ",
-    "ruby": "カブシキガイシャファイズ",
+    "name": "ファイズホールディングス株式会社",
+    "ruby": "ファイズホールディングスカブシキガイシャ",
     "englishName": ""
   },
   "93510": {

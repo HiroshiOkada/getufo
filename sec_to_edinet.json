@@ -388,15 +388,15 @@
     "edinetCode": "E08957",
     "secCode": "13970",
     "fundCode": "G10927",
-    "name": "SMAM 日経225上場投信",
-    "ruby": "エスエムエーエムニッケイニーニーゴージョウジョウトウシン"
+    "name": "SMDAM 日経225上場投信",
+    "ruby": "エスエムディーエーエム ニッケイニーニーゴジョウジョウトウシン"
   },
   "13980": {
     "edinetCode": "E08957",
     "secCode": "13980",
     "fundCode": "G10928",
-    "name": "SMAM 東証REIT指数上場投信",
-    "ruby": "エスエムエーエムトウショウリートシスウジョウジョウトウシン"
+    "name": "SMDAM 東証REIT指数上場投信",
+    "ruby": "エスエムディーエーエム トウショウリートシスウジョウジョウトウシン"
   },
   "13990": {
     "edinetCode": "E12430",
@@ -7387,9 +7387,9 @@
   "33530": {
     "edinetCode": "E03443",
     "secCode": "33530",
-    "name": "株式会社メディカル一光",
-    "ruby": "カブシキガイシャメディカルイッコウ",
-    "englishName": "Medical Ikkou Co., Ltd."
+    "name": "株式会社メディカル一光グループ",
+    "ruby": "カブシキガイシャメディカルイッコウグループ",
+    "englishName": "Medical Ikkou Group Co.,Ltd."
   },
   "33550": {
     "edinetCode": "E02979",
@@ -11842,6 +11842,13 @@
     "name": "株式会社ギフティ",
     "ruby": "カブシキガイシャギフティ",
     "englishName": "giftee Inc."
+  },
+  "44500": {
+    "edinetCode": "E35137",
+    "secCode": "44500",
+    "name": "株式会社パワーソリューションズ",
+    "ruby": "カブシキカイシャパワーソリューションズ",
+    "englishName": ""
   },
   "44520": {
     "edinetCode": "E00883",
@@ -20529,6 +20536,13 @@
     "name": "株式会社サイバー・バズ",
     "ruby": "カブシキガイシャサイバーバズ",
     "englishName": ""
+  },
+  "70700": {
+    "edinetCode": "E35014",
+    "secCode": "70700",
+    "name": "SIホールディングス株式会社",
+    "ruby": "エスアイホールディングスカブシキガイシャ",
+    "englishName": "SI Holdings plc"
   },
   "71020": {
     "edinetCode": "E02134",

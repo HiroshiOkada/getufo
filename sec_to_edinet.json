@@ -16480,9 +16480,9 @@
   "61850": {
     "edinetCode": "E31958",
     "secCode": "61850",
-    "name": "ソネット・メディア・ネットワークス株式会社",
-    "ruby": "ソネットメディアネットワークスカブシキガイシャ",
-    "englishName": "So-net Media Networks Corporation."
+    "name": "SMN株式会社",
+    "ruby": "エスエムエヌカブシキガイシャ",
+    "englishName": "SMN Corporation"
   },
   "61860": {
     "edinetCode": "E31997",

@@ -5809,6 +5809,13 @@
     "ruby": "カブシキガイシャツクルバ",
     "englishName": "tsukuruba inc."
   },
+  "29790": {
+    "edinetCode": "E35254",
+    "secCode": "29790",
+    "fundCode": "G13594",
+    "name": "SOSiLA物流リート投資法人",
+    "ruby": "ソシラブツリュウリートトウシホウジン"
+  },
   "30010": {
     "edinetCode": "E00524",
     "secCode": "30010",
@@ -13459,13 +13466,6 @@
     "name": "セルソース株式会社",
     "ruby": "セルソースカブシキガイシャ",
     "englishName": "CellSource Co., Ltd"
-  },
-  "48810": {
-    "edinetCode": "E32989",
-    "secCode": "48810",
-    "name": "株式会社ファンペップ",
-    "ruby": "カブシキカイシャファンペップ",
-    "englishName": ""
   },
   "49010": {
     "edinetCode": "E00988",

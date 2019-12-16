@@ -11962,6 +11962,20 @@
     "ruby": "カブシキガイシャメドレー",
     "englishName": "MEDLEY,INC."
   },
+  "44810": {
+    "edinetCode": "E35164",
+    "secCode": "44810",
+    "name": "ベース株式会社",
+    "ruby": "ベースカブシキガイシャ",
+    "englishName": "BASE CO.,LTD."
+  },
+  "44830": {
+    "edinetCode": "E35308",
+    "secCode": "44830",
+    "name": "株式会社JMDC",
+    "ruby": "カブシキカイシャジェイエムディーシー",
+    "englishName": ""
+  },
   "44840": {
     "edinetCode": "E35287",
     "secCode": "44840",

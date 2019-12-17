@@ -11948,6 +11948,13 @@
     "ruby": "ベイスカブシキガイシャ",
     "englishName": "BASE, INC."
   },
+  "44780": {
+    "edinetCode": "E35325",
+    "secCode": "44780",
+    "name": "フリー株式会社",
+    "ruby": "フリーカブシキカイシャ",
+    "englishName": "freee K.K."
+  },
   "44790": {
     "edinetCode": "E34557",
     "secCode": "44790",
@@ -11968,6 +11975,13 @@
     "name": "ベース株式会社",
     "ruby": "ベースカブシキガイシャ",
     "englishName": "BASE CO.,LTD."
+  },
+  "44820": {
+    "edinetCode": "E35284",
+    "secCode": "44820",
+    "name": "株式会社ウィルズ",
+    "ruby": "カブシキガイシャウィルズ",
+    "englishName": "WILLs Inc."
   },
   "44830": {
     "edinetCode": "E35308",

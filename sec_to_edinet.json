@@ -508,7 +508,7 @@
     "secCode": "14330",
     "name": "ベステラ株式会社",
     "ruby": "ベステラカブシキガイシャ",
-    "englishName": "BESTERRA CO., LTD."
+    "englishName": "BESTERRA CO., LTD"
   },
   "14340": {
     "edinetCode": "E31741",
@@ -5815,6 +5815,13 @@
     "fundCode": "G13594",
     "name": "SOSiLA物流リート投資法人",
     "ruby": "ソシラブツリュウリートトウシホウジン"
+  },
+  "29800": {
+    "edinetCode": "E35153",
+    "secCode": "29800",
+    "name": "SREホールディングス株式会社",
+    "ruby": "エスアールイーホールディングスカブシキカイシャ",
+    "englishName": "SRE Holdings Corporation"
   },
   "29810": {
     "edinetCode": "E35303",

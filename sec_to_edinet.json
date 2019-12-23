@@ -18367,6 +18367,13 @@
     "ruby": "ウェルビーカブシキガイシャ",
     "englishName": ""
   },
+  "65570": {
+    "edinetCode": "E33557",
+    "secCode": "65570",
+    "name": "株式会社global bridge HOLDINGS",
+    "ruby": "カブシキガイシャグローバルブリッヂホールディングス",
+    "englishName": "global bridge HOLDINGS Co.,Ltd."
+  },
   "65580": {
     "edinetCode": "E33515",
     "secCode": "65580",
@@ -20711,6 +20718,13 @@
     "name": "株式会社ALiNKインターネット",
     "ruby": "カブシキガイシャアリンクインターネット",
     "englishName": "ALiNK Internet, INC."
+  },
+  "70780": {
+    "edinetCode": "E35341",
+    "secCode": "70780",
+    "name": "INCLUSIVE株式会社",
+    "ruby": "インクルーシブカブシキカイシャ",
+    "englishName": ""
   },
   "71020": {
     "edinetCode": "E02134",

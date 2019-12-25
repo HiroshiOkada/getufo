@@ -12039,6 +12039,13 @@
     "ruby": "カブシキカイシャスペースマーケット",
     "englishName": "Spacemarket Inc."
   },
+  "44880": {
+    "edinetCode": "E35345",
+    "secCode": "44880",
+    "name": "AI inside株式会社",
+    "ruby": "エーアイインサイドカブシキガイシャ",
+    "englishName": "AI inside Inc."
+  },
   "45020": {
     "edinetCode": "E00919",
     "secCode": "45020",
@@ -20738,6 +20745,13 @@
     "secCode": "70780",
     "name": "INCLUSIVE株式会社",
     "ruby": "インクルーシブカブシキカイシャ",
+    "englishName": ""
+  },
+  "70790": {
+    "edinetCode": "E35335",
+    "secCode": "70790",
+    "name": "WDBココ株式会社",
+    "ruby": "ダブリューディービーココカブシキガイシャ",
     "englishName": ""
   },
   "71020": {

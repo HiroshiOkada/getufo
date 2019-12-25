@@ -12025,6 +12025,13 @@
     "ruby": "ランサーズカブシキガイシャ",
     "englishName": "LANCERS,INC."
   },
+  "44850": {
+    "edinetCode": "E35333",
+    "secCode": "44850",
+    "name": "株式会社JTOWER",
+    "ruby": "カブシキガイシャジェイタワー",
+    "englishName": "JTOWER Inc."
+  },
   "44860": {
     "edinetCode": "E35307",
     "secCode": "44860",
@@ -20726,6 +20733,13 @@
     "ruby": "カブシキカイシャジェイック",
     "englishName": "JAIC Co., Ltd."
   },
+  "70740": {
+    "edinetCode": "E35238",
+    "secCode": "70740",
+    "name": "株式会社トゥエンティーフォーセブン",
+    "ruby": "カブシキガイシャトゥエンティーフォーセブン",
+    "englishName": "Twenty-four seven Inc."
+  },
   "70760": {
     "edinetCode": "E35258",
     "secCode": "70760",
@@ -22748,6 +22762,13 @@
     "name": "株式会社ダブルエー",
     "ruby": "カブシキガイシャダブルエー",
     "englishName": "WA,Inc."
+  },
+  "76850": {
+    "edinetCode": "E35116",
+    "secCode": "76850",
+    "name": "株式会社BuySell Technologies",
+    "ruby": "カブシキガイシャバイセルテクノロジーズ",
+    "englishName": "BuySell Technologies Co.,Ltd."
   },
   "76860": {
     "edinetCode": "E35334",

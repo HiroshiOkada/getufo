@@ -16799,6 +16799,13 @@
     "ruby": "カブシキガイシャシマセイキセイサクショ",
     "englishName": "SHIMA SEIKI MFG., LTD."
   },
+  "62310": {
+    "edinetCode": "E35449",
+    "secCode": "62310",
+    "name": "木村工機株式会社",
+    "ruby": "キムラコウキカブシキガイシャ",
+    "englishName": "KIMURA KOHKI Co.,Ltd."
+  },
   "62320": {
     "edinetCode": "E34514",
     "secCode": "62320",
@@ -20781,6 +20788,13 @@
     "name": "株式会社スポーツフィールド",
     "ruby": "カブシキガイシャスポーツフィールド",
     "englishName": "Sportsfield Co., Ltd."
+  },
+  "70820": {
+    "edinetCode": "E35289",
+    "secCode": "70820",
+    "name": "株式会社ジモティー",
+    "ruby": "カブシキガイシャジモティー",
+    "englishName": ""
   },
   "70870": {
     "edinetCode": "E35470",

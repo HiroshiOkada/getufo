@@ -20803,6 +20803,13 @@
     "ruby": "カブシキガイシャウイルテック",
     "englishName": ""
   },
+  "70900": {
+    "edinetCode": "E33790",
+    "secCode": "70900",
+    "name": "株式会社リグア",
+    "ruby": "カブシキガイシャリグア",
+    "englishName": ""
+  },
   "71020": {
     "edinetCode": "E02134",
     "secCode": "71020",
@@ -29201,7 +29208,7 @@
     "secCode": "96440",
     "name": "株式会社タナベ経営",
     "ruby": "カブシキカイシャタナベケイエイ",
-    "englishName": "TANABE MANAGEMENT CONSULTING CO.,LTD."
+    "englishName": "TANABE  CONSULTING CO.,LTD."
   },
   "96470": {
     "edinetCode": "E04884",

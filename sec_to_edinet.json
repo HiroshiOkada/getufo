@@ -4797,9 +4797,9 @@
   "26550": {
     "edinetCode": "E03348",
     "secCode": "26550",
-    "name": "マックスバリュ東北株式会社",
-    "ruby": "マックスバリュトウホクカブシキガイシャ",
-    "englishName": "MAXVALU TOHOKU CO., LTD."
+    "name": "イオン東北株式会社",
+    "ruby": "イオントウホクカブシキガイシャ",
+    "englishName": "AEON TOHOKU CO., LTD."
   },
   "26560": {
     "edinetCode": "E05112",
@@ -20837,6 +20837,13 @@
     "name": "AHCグループ株式会社",
     "ruby": "エイエイチシーグループカブシキガイシャ",
     "englishName": "AHC GROUP INC."
+  },
+  "70850": {
+    "edinetCode": "E35488",
+    "secCode": "70850",
+    "name": "株式会社カーブスホールディングス",
+    "ruby": "カブシキガイシャカーブスホールディングス",
+    "englishName": "CURVES HOLDINGS Co., Ltd."
   },
   "70870": {
     "edinetCode": "E35470",

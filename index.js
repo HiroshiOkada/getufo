@@ -49,7 +49,7 @@ const baseFolder = prog.folder || process.cwd()
 const numPdf = prog.numpdf || 4
 
 const puppeteerOptions = {
-  headless: true,
+  headless: false,
   ignoreHTTPSErrors: true
 }
 
@@ -76,7 +76,11 @@ const downloadByCode = async (page, code) => {
 
   // Go to EDINET search page
   const EDINET_TOP_URL = 'http://disclosure.edinet-fsa.go.jp/'
-  await page.goto(EDINET_TOP_URL)
+  const res = await page.goto(EDINET_TOP_URL)
+  if (res.url().includes('sorry')) {
+    console.error('Sorry, EDINET seems to be under maintenance.')
+    return
+  }
   const KENSAKU = 'li.kensaku > a'
   await page.waitFor(KENSAKU)
   await page.$eval(KENSAKU, e => e.click())

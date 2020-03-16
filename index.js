@@ -49,7 +49,7 @@ const baseFolder = prog.folder || process.cwd()
 const numPdf = prog.numpdf || 4
 
 const puppeteerOptions = {
-  headless: false,
+  headless: true,
   ignoreHTTPSErrors: true
 }
 

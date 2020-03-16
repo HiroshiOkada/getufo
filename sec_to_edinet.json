@@ -3635,7 +3635,7 @@
   "23150": {
     "edinetCode": "E05331",
     "secCode": "23150",
-    "name": "株式会社カイカ",
+    "name": "株式会社CAICA",
     "ruby": "カブシキガイシャカイカ",
     "englishName": "CAICA Inc."
   },
@@ -22909,6 +22909,13 @@
     "name": "株式会社カクヤス",
     "ruby": "カブシキガイシャカクヤス",
     "englishName": ""
+  },
+  "76870": {
+    "edinetCode": "E35491",
+    "secCode": "76870",
+    "name": "株式会社ミクリード",
+    "ruby": "カブシキガイシャミクリード",
+    "englishName": "MICREED Co., Ltd."
   },
   "77010": {
     "edinetCode": "E02265",

@@ -12081,12 +12081,12 @@
     "ruby": "コンピューターマネージメントカブシキカイシャ",
     "englishName": ""
   },
-  "44950": {
-    "edinetCode": "E35578",
-    "secCode": "44950",
-    "name": "株式会社アイキューブドシステムズ",
-    "ruby": "カブシキガイシャアイキューブドシステムズ",
-    "englishName": "i3 Systems,Inc."
+  "44920": {
+    "edinetCode": "E35504",
+    "secCode": "44920",
+    "name": "株式会社ゼネテック",
+    "ruby": "カブシキガイシャゼネテック",
+    "englishName": "GENETEC CORPORATION"
   },
   "45020": {
     "edinetCode": "E00919",
@@ -16847,6 +16847,13 @@
     "name": "株式会社島精機製作所",
     "ruby": "カブシキガイシャシマセイキセイサクショ",
     "englishName": "SHIMA SEIKI MFG., LTD."
+  },
+  "62300": {
+    "edinetCode": "E35587",
+    "secCode": "62300",
+    "name": "SANEI株式会社",
+    "ruby": "サンエイカブシキガイシャ",
+    "englishName": "SANEI LTD."
   },
   "62310": {
     "edinetCode": "E35449",

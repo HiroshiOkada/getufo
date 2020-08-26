@@ -13,4 +13,5 @@ if [ -n "$change" ]; then
   git push origin master
   npm version patch
   npm publish
+  git push origin master
 fi

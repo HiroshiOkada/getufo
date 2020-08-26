@@ -9,6 +9,8 @@ change=$(git status --porcelain)
 if [ -n "$change" ]; then
   echo "$change"
   git add sec_to_edinet.json
-  git commit -m '[skip ci] Update sec to edinet infomation'
-  flg=true
+  git commit -m 'Update sec to edinet infomation'
+  git push origin master
+  npm version patch
+  npm publish
 fi

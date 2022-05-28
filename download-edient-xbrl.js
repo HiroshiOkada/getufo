@@ -89,7 +89,10 @@ const downloadEdnetXBRL = async code => {
   const baseDir = '/home/hiroshi/Dropbox/edinet'
   const downloadPath = `${baseDir}/${code}`
 
-  await fs.ensureDir(downloadPath)
+  await /* TODO: JSFIX could not patch the breaking change:
+  Creating a directory with fs-extra no longer returns the path 
+  Suggested fix: The returned promise no longer includes the path of the new directory */
+  fs.ensureDir(downloadPath)
 
   await serchDocuments(page, code)
   await downloadXbrl(browser, page, downloadPath)

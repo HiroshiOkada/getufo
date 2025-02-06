@@ -1,3 +1,6 @@
+# ⚠️ This package is deprecated!
+This package is not currently maintained and will not be updated in the future.
+
 # getufo
 
 Download securities reports from EDINET
